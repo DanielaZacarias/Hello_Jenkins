@@ -90,3 +90,5 @@ testing, feedback, and much more.
 
 ### Thank You  
 Justin Bankes <justin@liatrio.com>  
+
+[![Build Status](http://dzacarias4.mylabserver.com/job/cpipeline/badge/icon)](http://dzacarias4.mylabserver.com/job/cpipeline/)
